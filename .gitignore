@@ -44,3 +44,6 @@ reports/
 *.pth
 *.pt
 *.ckpt
+
+# Local virtual environment in the nested project copy.
+Retinal-DR-Detection/.venv/
