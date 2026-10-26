@@ -1,0 +1,46 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# IDE, OS, logs, and temporary files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.temp
+
+# Local application data and uploads
+data/history.json
+data/history_images/
+uploads/
+prediction_history/
+
+# Datasets and evaluation artefacts
+aptos2019-blindness-detection/
+APTOS*/
+datasets/
+data/raw/
+data/processed/
+evaluation_outputs/
+evaluation_results/
+reports/
+
+# Large trained-model checkpoints (keep locally or use approved model storage)
+*.pth
+*.pt
+*.ckpt
