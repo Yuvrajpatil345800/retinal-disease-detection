@@ -51,16 +51,18 @@ st.markdown(
               --ra-panel2:#0c2a4e; --ra-line:#1b426d; --ra-blue:#1688ff;
               --ra-cyan:#51d7ff; --ra-text:#f0f6ff; --ra-muted:#a9c0de; }
       .stApp { background:var(--ra-bg); color:var(--ra-text); }
-      [data-testid="stHeader"] { background:rgba(6,22,44,.98); }
+      /* Keep Streamlit Cloud controls out of the public app interface. */
+      [data-testid="stHeader"], [data-testid="stToolbar"], [data-testid="stStatusWidget"],
+      [data-testid="stDecoration"] { display:none!important; }
       [data-testid="stSidebar"] { background:var(--ra-sidebar); border-right:1px solid #133458; }
       [data-testid="stSidebar"] > div:first-child { padding-top:1rem; }
-      .block-container { max-width:1500px; padding-top:1.15rem; padding-bottom:2rem; }
+      .block-container { max-width:1500px; padding-top:.6rem; padding-bottom:2rem; }
       h1,h2,h3,h4 { color:var(--ra-text)!important; letter-spacing:-.02em; }
       p,li,label { color:#d8e7fa; }
       [data-testid="stCaptionContainer"] p, .muted { color:var(--ra-muted)!important; }
       .topbar { display:flex; align-items:center; justify-content:space-between; gap:1rem;
-        border-bottom:1px solid #19385b; padding:.15rem .1rem .9rem; margin-bottom:1.25rem; }
-      .brand { display:flex; align-items:center; gap:.55rem; font-size:1.04rem; font-weight:800; color:white; }
+        padding:.15rem .1rem .55rem; margin-bottom:1.25rem; }
+      .brand { display:flex; align-items:center; gap:.55rem; font-size:1.12rem; font-weight:850; color:#fff; }
       .brand-eye { display:flex; align-items:center; justify-content:center; width:1.75rem; height:1.75rem;
         color:#fff; background:linear-gradient(145deg,#258dff,#0756d9); border:1px solid #62b5ff;
         border-radius:50%; box-shadow:0 0 14px rgba(25,132,255,.3); }
