@@ -1,0 +1,225 @@
+[
+  {
+    "id": "81635030d59d",
+    "timestamp": "2026-10-27 01:37:21",
+    "original_name": "No_DR.png",
+    "image_file": "81635030d59d.jpg",
+    "prediction": "No DR",
+    "confidence": 0.999893069267273,
+    "probabilities": {
+      "No DR": 0.999893069267273,
+      "Mild": 8.616911509307101e-05,
+      "Moderate": 1.9042221538256854e-05,
+      "Severe": 3.965913606407412e-07,
+      "Proliferative DR": 1.3309477253642399e-06
+    }
+  },
+  {
+    "id": "58a6523fcef6",
+    "timestamp": "2026-10-27 01:37:10",
+    "original_name": "Proliferative_DR.png",
+    "image_file": "58a6523fcef6.jpg",
+    "prediction": "Proliferative DR",
+    "confidence": 0.7803303003311157,
+    "probabilities": {
+      "No DR": 0.0005752877914346755,
+      "Mild": 0.001480740844272077,
+      "Moderate": 0.08722452819347382,
+      "Severe": 0.13038909435272217,
+      "Proliferative DR": 0.7803303003311157
+    }
+  },
+  {
+    "id": "ca8dc98c5a50",
+    "timestamp": "2026-10-27 01:36:51",
+    "original_name": "Moderate_DR.png",
+    "image_file": "ca8dc98c5a50.jpg",
+    "prediction": "Moderate",
+    "confidence": 0.4913889467716217,
+    "probabilities": {
+      "No DR": 0.0075742509216070175,
+      "Mild": 0.46651384234428406,
+      "Moderate": 0.4913889467716217,
+      "Severe": 0.004270575940608978,
+      "Proliferative DR": 0.030252432450652122
+    }
+  },
+  {
+    "id": "0b18d3c9ac3b",
+    "timestamp": "2026-10-27 01:30:38",
+    "original_name": "normal.png",
+    "image_file": "0b18d3c9ac3b.jpg",
+    "prediction": "No DR",
+    "confidence": 0.999893069267273,
+    "probabilities": {
+      "No DR": 0.999893069267273,
+      "Mild": 8.616911509307101e-05,
+      "Moderate": 1.9042221538256854e-05,
+      "Severe": 3.965913606407412e-07,
+      "Proliferative DR": 1.3309477253642399e-06
+    }
+  },
+  {
+    "id": "dc73a2f197d8",
+    "timestamp": "2026-10-27 01:25:46",
+    "original_name": "with_DR.png",
+    "image_file": "dc73a2f197d8.jpg",
+    "prediction": "Moderate",
+    "confidence": 0.4913889467716217,
+    "probabilities": {
+      "No DR": 0.0075742509216070175,
+      "Mild": 0.46651384234428406,
+      "Moderate": 0.4913889467716217,
+      "Severe": 0.004270575940608978,
+      "Proliferative DR": 0.030252432450652122
+    }
+  },
+  {
+    "id": "0a17e3370a2f",
+    "timestamp": "2026-10-27 01:06:54",
+    "original_name": "Mild_DR.png",
+    "image_file": "0a17e3370a2f.jpg",
+    "prediction": "Moderate",
+    "confidence": 0.7918416261672974,
+    "probabilities": {
+      "No DR": 0.022835832089185715,
+      "Mild": 0.14637120068073273,
+      "Moderate": 0.7918416261672974,
+      "Severe": 0.014517131261527538,
+      "Proliferative DR": 0.024434084072709084
+    }
+  },
+  {
+    "id": "67e6b29251b8",
+    "timestamp": "2026-10-27 01:03",
+    "original_name": "sample_2_mild.png",
+    "image_file": "67e6b29251b8.jpg",
+    "prediction": "No DR",
+    "confidence": 0.8207762241363525,
+    "probabilities": {
+      "No DR": 0.8207762241363525,
+      "Mild": 0.07808277010917664,
+      "Moderate": 0.08534923195838928,
+      "Severe": 0.0025299435947090387,
+      "Proliferative DR": 0.013261837884783745
+    }
+  },
+  {
+    "id": "2c56dd884829",
+    "timestamp": "2026-10-27 00:54:19",
+    "original_name": "Mild_DR.png",
+    "image_file": "2c56dd884829.jpg",
+    "prediction": "Moderate",
+    "confidence": 0.7918416261672974,
+    "probabilities": {
+      "No DR": 0.022835832089185715,
+      "Mild": 0.14637120068073273,
+      "Moderate": 0.7918416261672974,
+      "Severe": 0.014517131261527538,
+      "Proliferative DR": 0.024434084072709084
+    }
+  },
+  {
+    "id": "de2fb7ca1aed",
+    "timestamp": "2026-10-27 00:44:09",
+    "original_name": "Mild_DR.png",
+    "image_file": "de2fb7ca1aed.jpg",
+    "prediction": "Moderate",
+    "confidence": 0.7918416261672974,
+    "probabilities": {
+      "No DR": 0.022835832089185715,
+      "Mild": 0.14637120068073273,
+      "Moderate": 0.7918416261672974,
+      "Severe": 0.014517131261527538,
+      "Proliferative DR": 0.024434084072709084
+    }
+  },
+  {
+    "id": "e211ca7dbb7a",
+    "timestamp": "2026-10-27 00:30:32 India Standard Time",
+    "image_file": "e211ca7dbb7a.jpg",
+    "prediction": "Moderate",
+    "confidence": 0.7918416261672974,
+    "probabilities": {
+      "No DR": 0.022835832089185715,
+      "Mild": 0.14637120068073273,
+      "Moderate": 0.7918416261672974,
+      "Severe": 0.014517131261527538,
+      "Proliferative DR": 0.024434084072709084
+    }
+  },
+  {
+    "id": "d742647767e4",
+    "timestamp": "2026-10-27 00:30:22 India Standard Time",
+    "image_file": "d742647767e4.jpg",
+    "prediction": "No DR",
+    "confidence": 0.999893069267273,
+    "probabilities": {
+      "No DR": 0.999893069267273,
+      "Mild": 8.616911509307101e-05,
+      "Moderate": 1.9042221538256854e-05,
+      "Severe": 3.965913606407412e-07,
+      "Proliferative DR": 1.3309477253642399e-06
+    }
+  },
+  {
+    "id": "rec_2025_04_28",
+    "timestamp": "2025-04-28 14:32",
+    "original_name": "fundus_moderate.png",
+    "image_file": "hist_1_moderate.jpg",
+    "prediction": "Moderate",
+    "confidence": 0.724,
+    "probabilities": {
+      "No DR": 0.053,
+      "Mild": 0.108,
+      "Moderate": 0.724,
+      "Severe": 0.087,
+      "Proliferative DR": 0.028
+    }
+  },
+  {
+    "id": "rec_2025_04_27",
+    "timestamp": "2025-04-27 11:15",
+    "original_name": "fundus_mild.png",
+    "image_file": "hist_2_mild.jpg",
+    "prediction": "Mild",
+    "confidence": 0.687,
+    "probabilities": {
+      "No DR": 0.152,
+      "Mild": 0.687,
+      "Moderate": 0.113,
+      "Severe": 0.032,
+      "Proliferative DR": 0.016
+    }
+  },
+  {
+    "id": "rec_2025_04_26",
+    "timestamp": "2025-04-26 16:48",
+    "original_name": "fundus_nodr.png",
+    "image_file": "hist_3_nodr.jpg",
+    "prediction": "No DR",
+    "confidence": 0.852,
+    "probabilities": {
+      "No DR": 0.852,
+      "Mild": 0.091,
+      "Moderate": 0.038,
+      "Severe": 0.012,
+      "Proliferative DR": 0.007
+    }
+  },
+  {
+    "id": "rec_2025_04_25",
+    "timestamp": "2025-04-25 10:22",
+    "original_name": "fundus_severe.png",
+    "image_file": "hist_4_severe.jpg",
+    "prediction": "Severe",
+    "confidence": 0.613,
+    "probabilities": {
+      "No DR": 0.015,
+      "Mild": 0.042,
+      "Moderate": 0.283,
+      "Severe": 0.613,
+      "Proliferative DR": 0.047
+    }
+  }
+]
